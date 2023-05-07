@@ -1,7 +1,7 @@
 ### My Project Moon Bear
 #### Video Demo:  <https://youtu.be/m8C-T2Sl04w>
 #### Description: Game
-My project called “The Moon Bear” is a game for three-year-olds.
+My project called “The Moon Bear” is a game for little children.
 
 How to win my game:
 The goal is to build the moon bear before the counter, which shows 100 in the beginning, goes down to 0. If you can build the moon bear with less than 100 clicks, you win otherwise you lose. But don’t worry, as long the counter does not show 0, you can always reset the game and if you want to stop playing my game, there is a Quit-Button too.
